@@ -1,1 +1,18 @@
+body { 
+    color: red;
+    background-color: yellow;
+    font-size: 20;
+    font-stretch: semi-expanded;
+    text-decoration-color: aquamarine;
+    background-image: url("https://images.unsplash.com/photo-1554579384-2d90b36072eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=933&q=80");
+    color: white;
+    text-align: center;
+    font-size: 40;   
+    border: 10px;
+    padding-inline: 20%;
+    
+}
 
+img {
+    width: 400px;
+}
